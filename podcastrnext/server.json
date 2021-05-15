@@ -1,0 +1,56 @@
+{
+    "episodes": [
+        {
+            "id": "1-a-importancia-da-contribuicao-em-open-source",
+            "title": "1 Faladev #30 | A importância da Contribuição em Open Source",
+            "members": "Diego Fernandes, João Pedro, Diego Haz e Bruno Lemos",
+            "published_at": "2021-01-22 16:35:40",
+            "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/opensource.jpg",
+            "description": "<p>Nesse episódio do Faladev, Diego Fernandes se reúne com João Pedro Schmtiz, Bruno Lemos e ...",
+            "file": {
+                "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/opensource.m4a",
+                "type": "audio/x-m4a",
+                "duration": "3981"
+            }
+        },
+        {
+            "id": "2-a-importancia-da-contribuicao-em-open-source",
+            "title": "2 Faladev #30 | A importância da Contribuição em Open Source",
+            "members": "Diego Fernandes, João Pedro, Diego Haz e Bruno Lemos",
+            "published_at": "2021-01-22 16:35:40",
+            "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/opensource.jpg",
+            "description": "<p>Nesse episódio do Faladev, Diego Fernandes se reúne com João Pedro Schmtiz, Bruno Lemos e ...",
+            "file": {
+                "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/opensource.m4a",
+                "type": "audio/x-m4a",
+                "duration": "3981"
+            }
+        },
+        {
+            "id": "3-a-importancia-da-contribuicao-em-open-source",
+            "title": "3 Faladev #29 | A importância da Contribuição em Open Source",
+            "members": "Diego Fernandes, João Pedro, Diego Haz e Bruno Lemos",
+            "published_at": "2021-01-22 16:35:40",
+            "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/opensource.jpg",
+            "description": "<p>Nesse episódio do Faladev, Diego Fernandes se reúne com João Pedro Schmtiz, Bruno Lemos e ...",
+            "file": {
+                "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/opensource.m4a",
+                "type": "audio/x-m4a",
+                "duration": "3981"
+            }
+        },
+        {
+            "id": "4-a-importancia-da-contribuicao-em-open-source",
+            "title": "4 Faladev #29 | A importância da Contribuição em Open Source",
+            "members": "Diego Fernandes, João Pedro, Diego Haz e Bruno Lemos",
+            "published_at": "2021-01-22 16:35:40",
+            "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/opensource.jpg",
+            "description": "<p>Nesse episódio do Faladev, Diego Fernandes se reúne com João Pedro Schmtiz, Bruno Lemos e ...",
+            "file": {
+                "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/opensource.m4a",
+                "type": "audio/x-m4a",
+                "duration": "3981"
+            }
+        }
+    ]
+}
